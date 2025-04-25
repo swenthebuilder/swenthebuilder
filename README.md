@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @swenthebuilder
-- 👀 I’m interested in full stack Blockchain 
-- 🌱 I’m currently building stake2build and nextjs polkadot boilerplate 
-- 💞️ I’m looking to collaborate on polkadot-api and polkadot ecosystem 
+- 👀 I’m interested in full stack Dapp dev
+- 🌱 I’m currently building Fundation.dev
+- 💞️ I’m looking to collaborate on polkadot ecosystem 
 - 📫 How to reach me here
 
 <!---
