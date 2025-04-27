@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @swenthebuilder
 - 👀 I’m interested in full stack Dapp dev
 - 🌱 I’m currently building Fundation.dev
-- 💞️ I’m looking to collaborate on polkadot ecosystem 
+- 💞️ I’m looking to collaborate in polkadot ecosystem 
 - 📫 How to reach me here
 
 <!---
